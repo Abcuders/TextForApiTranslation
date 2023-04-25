@@ -1,6 +1,7 @@
 # TextForApiTranslation
 
 [![ GitHub 许可证](https://img.shields.io/github/license/Abcuders/TextForApiTranslation)](https://github.com/Abcuders/TextForApiTranslation/LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/Abcuders/TextForApiTranslation)](https://github.com/Abcuders/TextForApiTranslation/releases/)
 
 😀这是一个用来给Mtool提取出的文本进行小牛Api翻译的简单脚本
 
