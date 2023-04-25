@@ -1,0 +1,2 @@
+# TextForApiTranslation
+😀这是一个用来给Mtool提取出的文本进行小牛Api翻译的简单脚本
