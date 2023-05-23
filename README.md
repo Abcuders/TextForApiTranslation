@@ -11,7 +11,7 @@
 
 # 📝使用方法 
  
- *`TextForApiTranslation.py`需要🐍Python3环境和🐮小牛翻译Api支持
+ * `TextForApiTranslation.py`需要🐍Python3环境和🐮小牛翻译Api支持
  
  * 1.使用Mtool提取`ManualTransFile.json`
 
